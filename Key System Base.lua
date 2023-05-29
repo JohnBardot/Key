@@ -264,7 +264,7 @@ GetKey_1.TextColor3 = Color3.fromRGB(255,255,255)
 
 GetKey_1.TextSize = 15
 GetKey_1.MouseButton1Click:Connect(function()  
-                  setclipboard("Link here!") 
+                  setclipboard("https://mboost.me/a/aph") 
                   GetKey_1.Text = "Copied" 
                   wait(1) 
                   GetKey_1.Text = "Get Key" 
