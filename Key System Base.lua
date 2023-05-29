@@ -306,7 +306,7 @@ CheckKey_1.MouseButton1Click:Connect(function()
              elseif game.PlaceId == 3623096087 then -- Muscle Legends
              loadstring(game:HttpGet("https://raw.githubusercontent.com/JohnBardot/ML/main/MuscleLegends.lua"))()
              game.CoreGui:FindFirstChild("KeySystem"):Destroy()  
-elseif game.PlaceId == 5490351219
+elseif game.PlaceId == 5490351219 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JohnBardot/CM/main/ClickerMadness.lua"))()
              game.CoreGui:FindFirstChild("KeySystem"):Destroy()  
  else 
