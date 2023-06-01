@@ -63,7 +63,7 @@ KeySystem.Parent = game.CoreGui
 Main_1.Name = "Main"
 
 Main_1.Parent = KeySystem
-
+ Main_1.AnchorPoint = Vector2.new(0.5,0.5)  
 Main_1.BackgroundColor3 = Color3.fromRGB(68,166,118)
 Main_1.BackgroundTransparency = 1
 
@@ -71,8 +71,7 @@ Main_1.BorderColor3 = Color3.fromRGB(27,42,53)
 
 Main_1.BorderSizePixel = 0
 
-Main_1.Position = UDim2.new(0.423188418, 0,0.407192588, 0)
-
+         Main_1.Position = UDim2.new(0.5,0,0.5,0)   
 Main_1.Size = UDim2.new(0, 225,0, 157)
 
 Main_1.Active = true
