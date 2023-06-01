@@ -130,7 +130,7 @@ TextLabel_1.Size = UDim2.new(0, 178,0, 34)
 
 TextLabel_1.Font = Enum.Font.Sarpanch
 
-TextLabel_1.Text = "Key System"
+TextLabel_1.Text = "Key System - PC"
 
 TextLabel_1.TextColor3 = Color3.fromRGB(255,255,255)
 
